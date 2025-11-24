@@ -1,0 +1,34 @@
+h3{
+	font-family: alice, "Times New Roman", serif;
+	color: #fff;
+}
+
+h1{
+	font-family: alice, "Times New Roman", serif;
+	color: #fff;
+	font-size: 70pt;
+	text-align: center;
+}
+
+h2{
+	font-family: alice, "Times New Roman", serif;
+	color: #fff;
+	font-size: 60pt;
+	text-align: center;
+}
+body{
+	background-color: #00008B;
+}
+
+table{
+	width: 100%;
+	table-layout: fixed;
+}
+
+.cell-image{
+	width: 100%;
+	height: 100%;
+	object-fit: contain;
+}
+
+
